@@ -2,7 +2,7 @@
 The Super Store Data Analysis Project leverages a dataset from Kaggle to demonstrate the extensive application of data analysis and visualization using Power BI Desktop. This project features dynamic dashboards that provide comprehensive insights into the operations of an apple superstore.
 
 # Key Features
-Periodic Reports: Monitored sales performance over time to identify trends and patterns.
+**.** Periodic Reports: Monitored sales performance over time to identify trends and patterns.
 Location-Based Reports: Analyzed sales data by region and state to highlight high and low-performing areas.
 Advanced Analytical Tools: Utilized the Q&A feature for natural language data queries and the decomposition tree to break down complex data hierarchies and uncover deeper insights.
 Key Influencers: Identified significant factors impacting sales, aiding stakeholders in understanding performance drivers.
