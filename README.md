@@ -3,9 +3,13 @@ The Super Store Data Analysis Project leverages a dataset from Kaggle to demonst
 
 # Key Features
 **Periodic Reports:** Monitored sales performance over time to identify trends and patterns.
+
 **Location-Based Reports:** Analyzed sales data by region and state to highlight high and low-performing areas.
+
 **Advanced Analytical Tools:** Utilized the Q&A feature for natural language data queries and the decomposition tree to break down complex data hierarchies and uncover deeper insights.
+
 **Key Influencers:** Identified significant factors impacting sales, aiding stakeholders in understanding performance drivers.
+
 **Enhanced Interactivity:** Implemented tooltips and drill-through functionality for detailed, contextual exploration of data.
 
 # Overview
